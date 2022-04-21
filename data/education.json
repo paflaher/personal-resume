@@ -1,15 +1,27 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
+        "school":"[University Of Central Lancashire](https://uclan.ac.uk)",
+        "degree":"Bachelor of Arts (hons)",
         "major":"Management Information Systems",
         "notes":"Beta Gamma Signma, High Honors",
         "range":"2006 - 2008"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"[Blackburn College](https://blackburn.ac.uk)",
+        "degree":"A-Level Business Studies",
+        "notes":"Grade C",
+        "range":"1999 - 2001"
+    },
+    {
+        "school":"[Blackburn College](https://blackburn.ac.uk)",
+        "degree":"AS-Level Film Studies",
+        "notes":"Grade C",
+        "range":"2000 - 2001"
+    },
+    {
+        "school":"[Blackburn College](https://blackburn.ac.uk)",
+        "degree":"AS-Level Media Studies",
+        "notes":"Grade C",
+        "range":"2000 - 2001"
     }
 ]
