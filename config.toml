@@ -1,5 +1,5 @@
 title = "Paul Flaherty"
-baseURL = "https://white-sky-08d603103.1.azurestaticapps.net"
+baseURL = "https://victorious-grass-06b534c03.1.azurestaticapps.net"
 theme = "hugo-resume"
 languageCode = "en-gb"
 PygmentsCodeFences = true
